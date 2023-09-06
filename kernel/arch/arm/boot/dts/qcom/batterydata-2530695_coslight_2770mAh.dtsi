@@ -1,0 +1,51 @@
+
+qcom,batterydata-2530695_coslight_2770mAh {
+	
+	qcom,max-voltage-uv = <4450000>;
+	qcom,nom-batt-capacity-mah = <2770>;
+	qcom,batt-id-kohm = <20>;
+	qcom,battery-beta = <4050>;
+	qcom,battery-type = "2530695_coslight_2770mAh";
+	qcom,chg-rslow-comp-c1 = <3489630>;
+	qcom,chg-rslow-comp-c2 = <5280437>;
+	qcom,chg-rs-to-rslow = <998494>;
+	qcom,chg-rslow-comp-thr = <0xAB>;
+	qcom,fastchg-current-ma = <1600>;
+	qcom,fg-cc-cv-threshold-mv = <4400>;
+	qcom,checksum = <0xF5D1>;
+	qcom,gui-version = "PMI8950GUI - 2.0.0.16";
+	qcom,fg-profile-data = [
+		 10 88 99 7F 
+		 BA 83 63 7E 
+		 60 83 E0 6D 
+		 4B 88 97 8E 
+		 2D 82 D9 99 
+		 DC BC 78 C9 
+		 5D 0E 1B 88 
+		 0B 84 0C 88 
+		 C2 7E 54 83 
+		 D0 69 70 79 
+		 5E 86 47 82 
+		 E0 99 34 BD 
+		 40 CA 5C 0D 
+		 E8 0A 77 5B 
+		 5A 71 E0 FD 
+		 93 2B B6 45 
+		 5F 28 00 00 
+		 A6 45 EA 35 
+		 C6 3A 00 00 
+		 00 00 00 00 
+		 00 00 00 00 
+		 3E 70 DA 6A 
+		 74 6B 22 8A 
+		 1D 77 DD 6B 
+		 80 68 FD 81 
+		 54 75 1C 69 
+		 7D 67 D6 A1 
+		 1D 6E 60 7E 
+		 5E A0 71 0C 
+		 28 00 FF 36 
+		 F0 11 30 03 
+		 00 00 00 0C 
+	];
+};
